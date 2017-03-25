@@ -10,7 +10,7 @@ Yak page
 * Central Asia
 
 
-![yak](/images/yak_1.jpg)
+![yak](./images/yak_1.jpg)
 
 English | עברית
 --------|--------
